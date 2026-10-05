@@ -1,0 +1,6 @@
+{
+  "name": "Velvet Drip - Local Roastery & Coffee Pre-Order",
+  "description": "An aesthetic, minimalist pastel mobile app to browse local roasteries, customize drinks, and track orders in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
